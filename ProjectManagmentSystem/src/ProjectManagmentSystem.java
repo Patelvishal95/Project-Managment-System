@@ -17,6 +17,7 @@ public class ProjectManagmentSystem {
     {
         // TODO code application logic here
         System.out.println("hello world");
+        System.out.println("hello part2");
     }
     
 }
